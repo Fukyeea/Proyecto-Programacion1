@@ -26,7 +26,7 @@ public class Principal {
         do{
 
 
-            System.out.println("****MENU*****");
+            System.out.println("****MENU Buke *****");
             System.out.println("1.Llenar vector de Lavadoras");
             System.out.println("2.Llenar vector de Lavadoras");
             System.out.println("3.Calcular Precio Televisores");
